@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:/mounika/spring jars 3.2.1/spring-aspects-3.2.1.RELEASE-sources.jar/spring-aspects-3.2.1.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/mounika/spring jars 3.2.1/spring-beans-3.2.1.RELEASE.jar/spring-beans-3.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/mounika/spring jars 3.2.1/spring-context-3.2.1.RELEASE.jar/spring-context-3.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/mounika/spring jars 3.2.1/spring-core-3.2.1.release.jar/spring-core-3.2.1.release.jar"/>
+	<classpathentry kind="lib" path="D:/mounika/spring jars 3.2.1/spring-expression-3.2.1.release.jar/spring-expression-3.2.1.release.jar"/>
+	<classpathentry kind="lib" path="D:/mounika/spring jars 3.2.1/spring-web-3.2.1.release.jar/spring-web-3.2.1.release.jar"/>
+	<classpathentry kind="lib" path="D:/mounika/spring jars 3.2.1/spring-webmvc-3.2.1.RELEASE.jar/spring-webmvc-3.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mounika1/Downloads/commons-logging-1.2.1.1.jar (1)/commons-logging-1.2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mounika1/Downloads/hibernate-validator-4.2.0.Final.jar/hibernate-validator-4.2.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mounika1/Downloads/jstl-1.2.jar/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mounika1/Downloads/log4j-1.2.16.jar/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mounika1/Downloads/validation-api-1.0.0.GA.jar/validation-api-1.0.0.GA.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
